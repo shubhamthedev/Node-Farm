@@ -1,0 +1,17 @@
+{
+  "name": "nodefarm",
+  "version": "1.0.0",
+  "description": "App for node farm",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
